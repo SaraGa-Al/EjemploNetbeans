@@ -1,0 +1,7 @@
+// Definimos la clase principal llamada 'HolaMundo'
+public class HolaMundo {
+
+    // Este es el método principal, el punto de entrada del programa
+    public static void main(String[] args) {
+        // Esta línea imprime el mensaje "¡Hola, Mundo!" en la consola
+        System.out.println("¡Hola, Mundo!");
